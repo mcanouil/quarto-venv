@@ -11,8 +11,6 @@
 3. Install Jupyter: `python3 -m pip install jupyter`.
 4. Check Quarto setup: `quarto check`.
 
-See [Short video to show how to setup a Virtual Environment inside of a Dev Container](quarto-devcontainer-venv.mp4).
-
 In this repository:
 
 ```txt
