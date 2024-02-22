@@ -1,7 +1,8 @@
 # Quarto & Virtual Env
 
 1. (Optional) In the command palette, search and select "Dev Containers: Reopen in Container".  
-   Docker is required for this to work.
+   Docker is required for this to work.  
+   Alternatively, you can open the folder in a container by clicking the green "Code" button on GitHub and clicking on "Create codespace on main".
 2. In the command palette:
    1. Search and select "Python: Create Environment...".
    2. Select "Venv".
